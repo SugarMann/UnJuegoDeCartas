@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 169cc30f5e76b4642b35fb8eeb64decd, type: 3}
+  m_Name: Knight
+  m_EditorClassIdentifier: 
+  <Image>k__BackingField: {fileID: 4723107735738678597, guid: fc46633b0eb321e46838bcb9ff2d4150,
+    type: 3}
+  <Health>k__BackingField: 44
+  <Deck>k__BackingField:
+  - {fileID: 11400000, guid: f4df98cb561c445c2bfc19016d90d1c5, type: 2}
+  - {fileID: 11400000, guid: ad7c5ddcba1f94b1fa37c6097e217e11, type: 2}
+  - {fileID: 11400000, guid: 9600d9e35fabb4d05913cec96878bf40, type: 2}
+  - {fileID: 11400000, guid: 42c35d03c1d7f4471a4dc060b2033e53, type: 2}
+  - {fileID: 11400000, guid: d0c3565f19de344cc99920407ba73952, type: 2}
+  - {fileID: 11400000, guid: eb06f0cc27a034b5883ee7cd5072fe33, type: 2}
+  - {fileID: 11400000, guid: 996268ccde7354e05b5c2ce0cafe934f, type: 2}
+  - {fileID: 11400000, guid: fafa8bdca5ebb48beab4e097e4356d6a, type: 2}
+  - {fileID: 11400000, guid: ae7fe91a9634e4161b105d6ea294a39b, type: 2}
+  - {fileID: 11400000, guid: f26319bcc14324fceb74bcc736bed629, type: 2}
+  - {fileID: 11400000, guid: 87c0489bfae7b467cb6958945c9cec6a, type: 2}
+  - {fileID: 11400000, guid: 0ca1776b4f83e462d9e60a835e3a57c5, type: 2}
+  - {fileID: 11400000, guid: d3488fe3d52fb47779f1ce16dbf950e4, type: 2}
